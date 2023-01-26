@@ -6,7 +6,7 @@ It is inteded to play simple tunes out of the PC speaker, using the frequencies 
 
 Included are the notes and their duration for a simple version of Stille Nacht (a classic Christmas song which happens to be in the public domain), in the file NOCHEPAZ.DAT which is a text file with two columns (freq and milliseconds).
 
-The GUI is rendered in graphics mode using a kind of vector graphics, with the points stored at PSS795PT.DAT (trying to give the aspect of a Yamaha PSS-795 keyboard).
+The GUI is rendered in graphics mode using a kind of vector graphics, with the points stored at PSS795PT.DAT, trying to give the aspect of a [Yamaha PSS-795](https://uk.yamaha.com/files/download/other_assets/5/317385/PSS795S2.pdf) keyboard.
 
 To compile it, (if it still [compiles](https://www.youtube.com/watch?v=cbGAv0TWx0k) in a DOS window or on a virtual machine) you would need the next files, which [came](https://www.javiergutierrezchamorro.com/los-archivos-bgi-y-svga-bgi-4-00/) with the Turbo Pascal package:
 
