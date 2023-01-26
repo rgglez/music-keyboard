@@ -24,7 +24,7 @@ And of course, you will need Turbo Pascal 5.5 or higher.
 
 You may also need to configure the keyboard with the DOS command KEYB SP,437, since it's intended to be used with a BTC5349-style keyboard, when used in "manual mode".
 
-# License
+## License
 
 Copyright 1992 Rodolfo González González.
 
