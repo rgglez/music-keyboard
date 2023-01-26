@@ -1,6 +1,6 @@
 # Musical Keyboard 
 
-This is a program I wrote in 1992, when I was in senior high school.
+This is a program I wrote in Pascal (Turbo Pascal) in 1992, when I was in senior high school.
 
 It is inteded to play simple tunes out of the PC speaker, using the frequencies of the notes of a well tempered scale (rounded to the nearest integer value), and the duration specified in miliseconds. You can find the frequencies here: [Frequencies for equal-tempered scale, A4 = 440 Hz](https://pages.mtu.edu/~suits/notefreqs.html). Back in 1992, I had to figure out those frequencies from a Yamaha manual and the booklet of Fresh Aire 7 by Mannheim Steamroller. You'll need to figure out the duration of the notes by yourself when transcribing a tune.
 
@@ -8,7 +8,7 @@ Included are the notes and their duration for a simple version of Stille Nacht (
 
 The GUI is rendered in graphics mode using a kind of vector graphics, with the points stored at PSS795PT.DAT (trying to give the aspect of a Yamaha PSS-795 keyboard).
 
-To compile it, (if it still [compiles](https://www.javiergutierrezchamorro.com/los-archivos-bgi-y-svga-bgi-4-00/) in a DOS window or on a FreeDOS virtual machine) you would need the next files, which came with the Turbo Pascal package:
+To compile it, (if it still [compiles](https://www.youtube.com/watch?v=cbGAv0TWx0k) in a DOS window or on a virtual machine) you would need the next files, which [came](https://www.javiergutierrezchamorro.com/los-archivos-bgi-y-svga-bgi-4-00/) with the Turbo Pascal package:
 
 * ATT.BGI
 * CGA.BGI
@@ -28,7 +28,7 @@ You may also need to configure the keyboard with the DOS command KEYB SP,437, si
 
 Copyright 1992 Rodolfo González González.
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
