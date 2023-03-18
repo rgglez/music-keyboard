@@ -1,4 +1,9 @@
-# Musical Keyboard 
+# music-keyboard
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+![GitHub all releases](https://img.shields.io/github/downloads/rgglez/music-keyboard/total) 
+![GitHub issues](https://img.shields.io/github/issues/rgglez/music-keyboard) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/music-keyboard)
 
 This is a program I wrote in Pascal (Turbo Pascal) in 1992, when I was in senior high school.
 
@@ -26,7 +31,7 @@ You can play with the PC keyboard too. You may need to configure the keyboard wi
 
 ## License
 
-Copyright 1992 Rodolfo González González.
+Copyright (c) 1992 Rodolfo González González.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -38,3 +43,5 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+See the LICENSE file.
