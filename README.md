@@ -7,7 +7,7 @@
 
 This is a program I wrote in Pascal (Turbo Pascal) in 1992, when I was in senior high school.
 
-It is inteded to play simple tunes out of the PC speaker, using the frequencies of the notes of a well tempered scale (rounded to the nearest integer value), and the duration specified in miliseconds. You can find the frequencies here: [Frequencies for equal-tempered scale, A4 = 440 Hz](https://pages.mtu.edu/~suits/notefreqs.html). Back in 1992, I had to figure out those frequencies from a Yamaha manual and the booklet of Fresh Aire 7 by Mannheim Steamroller. You'll need to figure out the duration of the notes by yourself when transcribing a tune.
+It is inteded to play simple tunes out of the PC speaker, using the frequencies of the notes of a well tempered scale (rounded to the nearest integer value), and the duration specified in miliseconds. You can find the frequencies here: [Frequencies for equal-tempered scale, A4 = 440 Hz](https://pages.mtu.edu/~suits/notefreqs.html). Back in 1992, I had to figure out those frequencies from a Yamaha manual and the booklet of [Fresh Aire 7](https://open.spotify.com/album/0E9fy8FlLTaBBg9t9i5NJc?si=biqHVUIoRVG9uDWsDxQdWQ) by Mannheim Steamroller. You'll need to figure out the duration of the notes by yourself when transcribing a tune.
 
 Included are the notes and their duration for a simple version of Stille Nacht (a classic Christmas song which happens to be in the public domain), in the file NOCHEPAZ.DAT which is a text file with two columns (freq and milliseconds).
 
