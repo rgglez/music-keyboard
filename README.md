@@ -33,10 +33,9 @@ You can play with the PC keyboard too. You may need to configure the keyboard wi
 
 Copyright (c) 1992 Rodolfo González González.
 
-![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]]
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en).
-
 
 See the [LICENSE](LICENSE.txt) file.
