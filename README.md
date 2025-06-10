@@ -1,6 +1,6 @@
 # music-keyboard
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/music-keyboard/total) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/music-keyboard) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/music-keyboard)
@@ -32,8 +32,6 @@ You can play with the PC keyboard too. You may need to configure the keyboard wi
 ## License
 
 Copyright 1992 Rodolfo González González.
-
-Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
