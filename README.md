@@ -31,7 +31,7 @@ You can play with the PC keyboard too. You may need to configure the keyboard wi
 
 ## License
 
-Copyright (c) 1992 Rodolfo González González.
+Copyright 1992 Rodolfo González González.
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
